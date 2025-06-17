@@ -70,7 +70,9 @@ SESSION_SECRET=your_session_secret
 ### Docker Setup
 1. Build and run containers:
 ````bash
-docker-compose up --build
+git clone https://github.com/temporalio/docker-compose.git
+cd docker-compose
+docker-compose up 
 ````
 
 2. Access services:
