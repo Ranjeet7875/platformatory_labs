@@ -26,8 +26,8 @@ project-root/
 │   │   ├── components/
 │   │   ├── services/
 │   │   └── styles/
-│   ├── Dockerfile
-│   └── package.json
+│   ├─package.json
+│   
 ├── backend/
 │   ├── config/
 │   ├── models/
